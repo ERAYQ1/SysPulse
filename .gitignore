@@ -1,0 +1,15 @@
+# SysPulse Settings & Logs
+config.json
+peak_log_*.txt
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Build
+dist/
+build/
+*.spec
